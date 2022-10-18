@@ -1,0 +1,4 @@
+The purpose of this program is to demonstrate a sentence filter program.
+The first file contains sentences with incorrect capitalization.
+The program will read the contents of the first file and fix the capitalization.
+It will then display the results and output the contents in a second file.

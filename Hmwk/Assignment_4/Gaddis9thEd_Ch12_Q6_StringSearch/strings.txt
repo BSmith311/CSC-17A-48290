@@ -1,0 +1,5 @@
+This program will open a file for input.
+It will then ask the user what string they want to search for.
+Then the program will check each line for the specified string.
+When it finds the string, it'll output the line it was found on.
+Once it finishes, it will say how many times the string was found.

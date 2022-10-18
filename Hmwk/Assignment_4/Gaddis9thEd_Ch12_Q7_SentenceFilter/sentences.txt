@@ -1,0 +1,4 @@
+the purpose of this program is to demonstrate a sentence filter program.
+THE FIRST FILE CONTAINS SENTENCES WITH INCORRECT CAPITALIZATION.
+tHE pROGRAM wILL rEAD tHE cONTENTS oF tHE fIRST fILE aND fIX tHE cAPITALIZATION.
+It Will Then Display The Results And Output The Contents In A Second File.
